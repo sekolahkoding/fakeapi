@@ -1,4 +1,6 @@
-[{"id":1,"product_name":"Thyme - Lemon, Fresh","category":"Pink"},
+{
+  "products":   
+  [{"id":1,"product_name":"Thyme - Lemon, Fresh","category":"Pink"},
 {"id":2,"product_name":"Wine - Chablis J Moreau Et Fils","category":"Turquoise"},
 {"id":3,"product_name":"Wine - Ice Wine","category":"Aquamarine"},
 {"id":4,"product_name":"Sobe - Liz Blizz","category":"Violet"},
@@ -28,3 +30,4 @@
 {"id":28,"product_name":"Appetizer - Chicken Satay","category":"Violet"},
 {"id":29,"product_name":"Parsley Italian - Fresh","category":"Crimson"},
 {"id":30,"product_name":"Cocktail Napkin Blue","category":"Puce"}]
+}
