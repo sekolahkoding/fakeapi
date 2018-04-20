@@ -1,6 +1,7 @@
 {
   "products":   
   [
+    {"id":8,"product_name":"SONEw - Gerel","category":"Red","image":"/images/one.png"}, 
 {"id":10,"product_name":"NewMie - Gerel","category":"Red","image":"/images/two.png"},    
 {"id":0,"product_name":"Mestra - Orbolla - Belpaese","category":"Red","image":"/images/one.png"},    
 {"id":1,"product_name":"Wine - Magnotta - Belpaese","category":"Red","image":"/images/two.png"},
