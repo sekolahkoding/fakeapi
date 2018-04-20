@@ -1,7 +1,7 @@
 {
   "products":   
   [
-{"id":1,"product_name":"Mestra - Orbolla - Belpaese","category":"Red","image":"https://dummyimage.com/152x152.png/dddddd/000000"},    
+{"id":0,"product_name":"Mestra - Orbolla - Belpaese","category":"Red","image":"https://dummyimage.com/152x152.png/dddddd/000000"},    
 {"id":1,"product_name":"Wine - Magnotta - Belpaese","category":"Red","image":"https://dummyimage.com/101x114.png/dddddd/000000"},
 {"id":2,"product_name":"Olives - Morracan Dired","category":"Orange","image":"https://dummyimage.com/192x242.png/5fa2dd/ffffff"},
 {"id":3,"product_name":"Nantucket Orange Juice","category":"Fuscia","image":"https://dummyimage.com/152x152.png/dddddd/000000"},
