@@ -1,6 +1,7 @@
 {
   "products":   
   [
+{"id":10,"product_name":"NewMie - Gerel","category":"Red","image":"/images/two.png"},    
 {"id":0,"product_name":"Mestra - Orbolla - Belpaese","category":"Red","image":"/images/one.png"},    
 {"id":1,"product_name":"Wine - Magnotta - Belpaese","category":"Red","image":"/images/two.png"},
 {"id":2,"product_name":"Olives - Morracan Dired","category":"Orange","image":"/images/one.png"},
