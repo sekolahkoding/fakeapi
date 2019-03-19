@@ -1,12 +1,7 @@
 {
-  "products":   
-  [
- {"id":10,"product_name":"Zehr Neue","category":"Red","image":"/images/two.png"},
-{"id":0,"product_name":"Mestra - Orbolla - Belpaese","category":"Red","image":"/images/one.png"},    
-{"id":1,"product_name":"Wine - Magnotta - Belpaese","category":"Red","image":"/images/two.png"},
-{"id":2,"product_name":"Olives - Morracan Dired","category":"Orange","image":"/images/one.png"},
-{"id":3,"product_name":"Nantucket Orange Juice","category":"Fuscia","image":"/images/two.png"},
-{"id":4,"product_name":"Shrimp - Black Tiger 8 - 12","category":"Blue","image":"/images/one.png"},
-{"id":5,"product_name":"Sobe - Cranberry Grapefruit","category":"Teal","image":"/images/two.png"}
+  "todos": [
+    {"id":0, "text":"bersih bersih", "completed": false},    
+    {"id":1, "text":"belajar", "completed": false},    
+    {"id":2, "text":"menyapu", "completed": false}    
   ]
 }
